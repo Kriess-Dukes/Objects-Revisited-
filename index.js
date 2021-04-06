@@ -1,7 +1,7 @@
 //Create a variable called myObject and assign 
 //an object to it.
 
-myObject = ()
+var myObject = object
 
 
 
@@ -27,11 +27,12 @@ print(myObject)
 
 //Use a for in loop to print all of the keys of the object
 
-
+for print(all keys of object))
 
 
 ///Use a for in loop to print all of the values of the object
 
+for print(all values of object))
 
 
 
